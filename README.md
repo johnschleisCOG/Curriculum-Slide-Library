@@ -19,7 +19,7 @@ This repository includes sample slide decks I built for multi-subject K–8 clas
 
 ## 🎯 Why I Built This
 
-Teachers face constant time pressure for lesson prep. These slide libraries provide consistency, reduce prep time, and make it easier for multiple teachers to share resources across classrooms and even schools.
+Teachers face constant time pressure for lesson prep. These slide libraries provide consistency, reduce prep time, and make it easier for multiple teachers to share resources across classrooms and even schools. This demonstrates how I design and present information to individuals, whether they are children or adults.
 
 ---
 
